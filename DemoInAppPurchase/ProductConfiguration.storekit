@@ -1,0 +1,119 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "F5D4DCA2",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Remove Ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "nxh.DemoInAppPurchase.removeAds",
+      "referenceName" : "RemoveAds",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.24",
+      "familyShareable" : false,
+      "internalID" : "CFADB87D",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Unlock everything",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "nxh.DemoInAppPurchase.unlockEverything",
+      "referenceName" : "Unlock Everything",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.33",
+      "familyShareable" : false,
+      "internalID" : "979DF81A",
+      "localizations" : [
+        {
+          "description" : "Get gems",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "nxh.DemoInAppPurchase.gems",
+      "referenceName" : "Gems",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "C2D19C1D",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.temporary.id",
+      "referenceName" : null,
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "41D7567F",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.temporary.id",
+      "referenceName" : null,
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "5AF8AED8",
+      "localizations" : [
+
+      ],
+      "name" : "",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "06AD9486",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temporary.id",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : null,
+          "subscriptionGroupID" : "5AF8AED8",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
